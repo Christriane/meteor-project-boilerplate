@@ -1,3 +1,3 @@
-#Boilerplate Meteor Project
+# Boilerplate Meteor Project
 
-Ths includes a basic react and auth setup.
+This includes a basic react.js and auth setup. 
